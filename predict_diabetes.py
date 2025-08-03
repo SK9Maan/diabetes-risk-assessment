@@ -9,7 +9,7 @@ Original file is located at
 
 # predict_diabetes.py
 
-!pip install streamlit
+# !pip install streamlit
 
 import streamlit as st
 import numpy as np
